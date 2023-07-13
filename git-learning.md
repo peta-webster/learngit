@@ -8,7 +8,7 @@
 
 `git commit -m " "`
 
-`git log`
+`git log`: Q退出日志查询界面
 
 `cd xxx`
 
