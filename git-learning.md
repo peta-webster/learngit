@@ -18,6 +18,8 @@
 
 `cat text.txt`;
 
+`git mv git1.md git2.md`:重命名
+
 ### 远程仓库：
 
 `git remote add origin 仓库地址`： 建立连接
