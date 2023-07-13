@@ -10,7 +10,7 @@
 
 `git log`: Q退出日志查询界面
 
-`cd xxx`
+`cd xxx`,通配符*；`touch xxx.md`; 
 
 `ls`:查看当前目录下的文件
 
