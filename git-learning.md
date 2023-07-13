@@ -36,7 +36,7 @@
 
 
 
-`git remote -v`:查看远程库 ; `git remote rm origin`：删除远程库 
+`git remote -v`:查看远程库 ;  `git remote rm origin`：删除远程库 
 
 
 
@@ -46,10 +46,12 @@
 
 
 
-错误：git branch origin2(创建新的分支)； git checkout origin2
+错误：`git branch origin2`(创建新的分支)； `git checkout origin2`
 
-​	git merge origin2(将当前分支与origin2分支合并)
+​	`git merge origin2`(将当前分支与origin2分支合并)
 
-​	git branch -d origin2(删除分支)
+​	`git branch -d origin2`(删除分支)
 
 ​	
+
+**目前：还不会版本回溯，历史版本管理，对git分支概念不理解**
