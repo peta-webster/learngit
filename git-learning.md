@@ -22,7 +22,7 @@
 
 ### 远程仓库：
 
-`git remote add origin 仓库地址`： 建立连接
+`git remote add origin +仓库地址`： 建立连接
 
 
 
@@ -55,3 +55,14 @@
 ​	
 
 **目前：还不会版本回溯，历史版本管理，对git分支概念不理解**
+
+
+
+20230714：
+
+git diff 有两个主要的应用场景。
+
+- 尚未缓存的改动：**git diff**
+- 查看已缓存的改动： **git diff --cached**
+- 查看已缓存的与未缓存的所有改动：**git diff HEAD**
+- 显示摘要而非整个 diff：**git diff --stat**
